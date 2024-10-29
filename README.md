@@ -63,13 +63,12 @@ Link to the dataset: https://www.kaggle.com/datasets/abdallahalidev/plantvillage
 -GitHub: For version control and collaboration.
 
 
-
-## Future Improvements
-
-- Expand the dataset: Include more crops and disease types for a broader application.
-- Improve model accuracy: Fine-tune hyperparameters or explore more advanced architectures to achieve higher accuracy.
-- Mobile integration: Develop a mobile app that integrates the model for real-time disease detection using smartphone cameras.
-- 
 ## Conclusion
 This project demonstrates how deep learning models like CNNs and ViTs can effectively identify plant diseases, offering a tool that could potentially assist farmers and help mitigate global food shortages.
 The deployed web application can serve as a prototype for future mobile-based disease detection systems.
+
+---
+
+## **App link**
+
+https://plant-disease-classifier-cnn-vit.streamlit.app/
